@@ -1,0 +1,335 @@
+
+#div1{
+  background:   none;
+background-image: url(./assets/img/nature/ro.jpg);
+  
+}
+
+h2{
+  border:2px solid;
+  color:pink;
+  font-size: 45px;
+  text-align: center;
+  box-shadow: 0 8px 10px;
+}
+
+#calculator{
+  width: 450px;
+  background-color:pink;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid red;
+  border-radius: 25px;
+  padding: 40px 15px 30px 40px;
+}
+
+.button{
+  border: 2px solid white;
+  border-radius: 2px;
+  width: 90px;
+  height: 70px;
+  font-size: 20px;
+  font-family: Wide Latin;
+  color: black;
+  background-color:lightsteelblue;
+}
+.casc{
+  font-size: 20px;
+margin: 25px;
+}
+p{
+  font-size: 20px;
+}
+
+.mail{
+  font-size: 25px;
+  font-family:  Impact;
+  color:black;
+width: 50%
+}                                                                
+
+#do{
+  width: 100px;
+  height: 250px;
+}
+#vi{
+  width: 450px;
+  height: 325px;
+}
+
+h3{
+  border: 3px solid;
+  color: ;
+  text-align: center;
+  font-size: 50px;
+  box-shadow: 0 5px 6px;
+
+}
+#scov{
+  width: 155px;
+  height: 225px;
+}
+
+h2:hover{
+  color: #82B1FF;
+}
+
+h3:hover{
+  color: #82B1FF;
+}
+#btn:hover{
+  color: red;
+}
+
+#div2{
+  background-color: pink;
+}
+
+#div3{
+  background-color: lightblue;
+  color: white;
+  font-size: 20px;
+}
+
+#zone{
+  margin-left: 1000px;
+}
+
+b{
+  color: green;
+  webkit-transform:
+ rotate(90deg);
+}
+
+h1{
+  font-size: 80px;
+  color: blue; 
+}
+
+ul{
+  display: inline;
+  font-size: 25px;
+  color: white;
+}
+
+h2{
+  margin-left: 1000px;
+}
+
+.img{
+  width: 226px;
+  height: 339px;
+}
+
+img{
+  width: 200px;
+  height: 300px;
+  display: inline;
+  margin-left: 100px;
+}
+
+.margin {margin-bottom: 150px;
+color:white;
+text-decoration :flash;
+animation-direction: left;
+animation-duration: 5s;
+
+}
+
+.bg-1 { 
+      background-color:#0000b7 ; 
+      color: #ffffff;
+  }
+
+  .bg-2 { 
+      background-color: white; 
+      color: #ffffff;
+      width: 1420px;
+  height: 990px;
+  }
+
+  .bg-3 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+
+#div4{
+  width: 100px;
+  height: 400px;
+  
+}
+
+h3{ 
+  color: #82B1FF;
+ }
+
+#mimi{
+  color: red;
+  margin-left: 100px;
+}
+
+#div5{
+  width: 900px;
+  height: 900px;
+  margin-left: 100px;
+}
+
+#div6{
+  background-color: pink;
+}
+
+.titre{ 
+color :grey;
+ text-align:center;
+width: 500px;
+height: :200px;
+font-size: 105px;
+}
+
+#tot{
+  
+  background-color: blue;
+  height: 150px; 
+  text-align: center;
+  color: white;
+}
+
+input{
+  width: 200px;
+  height: 30px;
+
+}
+
+.body{
+  text-align: center;
+  color:white;font-size: 40px;animation-name: zoomInUp;
+  animation-duration: 3s;
+}
+
+textarea{
+  width: 600px;
+  height: 200px;
+}
+
+#legende{
+  font-family: castellar;
+  color: BLACK;
+  text-shadow: 0px 3px blue;
+  font-size: 25px;
+}
+
+#legen{
+  font-family: castellar;
+  color: white;
+  text-shadow: 0px 3px blue;
+  font-size: 25px;
+}
+
+#sary{
+  height: 250px;
+  width: 250px;
+  text-align: center;
+}
+
+.Tol{
+  color:blue;
+}
+#nbr{
+  font-size: 25px;
+  width: 425px;
+  height: 25px;
+}
+
+}
+.clc{
+  color:skyblue;
+  background color: blue;
+  text-align: center;
+}
+
+.ho{
+  width: 250px;
+  height: 120px;
+}
+
+#ret{
+  color: yellow;
+}
+
+.bob{
+  text-decoration-color: #448AFF;
+  text-align: center;
+  color: white;
+}
+
+.navbar-brand{
+  text-align: center;
+}
+
+.form-group{
+  width: 250px;
+}
+
+.form-control{
+  width: 100px;
+  height: 200px;
+}
+
+#item{
+  width:100px;
+  border:2px solid;
+  color:pink;
+  font-size: 45px;
+  text-align: center;
+  box-shadow: 0 8px 10px;
+}
+h3{
+  border: 3px solid;
+  color: blue;
+  text-align: center;
+  font-size: 50px;
+  box-shadow: 0 5px 6px;
+  color: white
+}
+
+
+h2:hover{
+  color: red;
+}
+h3:hover{
+  color: white;
+}
+#btn:hover{
+  color: red;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+.haha{
+  
+}
+.nbr{
+ width: 25px;
+ height: 25px;
+}
+#demo{
+  color: black;
+}
